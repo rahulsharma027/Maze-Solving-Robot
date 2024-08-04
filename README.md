@@ -1,4 +1,4 @@
-## Demonstration of this Project is here:
+## Demonstration of this project is here:
 # https://youtube.com/shorts/KKV-1y4Cs_s?si=t5If1_IHBTl5kk8a
 
 This is a Non-Syllabus Project that I created in my 4th year as a CSE(AI) student for our Robot Programming Lab.
