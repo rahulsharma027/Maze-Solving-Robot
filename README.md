@@ -19,6 +19,8 @@ Components used are:
 11. 1X 9V Battery for powering Arduino UNO.
 
 
+Technology used: C++ and Arduino IDE
+
 
 Here is the Final Robot:
 
@@ -92,7 +94,7 @@ There are various algorithms that can be used to solve a maze with Arduino UNO l
 3. Left-Hand Algorithm
 4. Right-Hand Algoritm
 
-I applied Left-Hand Algorithm in this project as the clock speed of base Arduino UNO is slower than its varients like Arduino Nanoa and Arduino Giga R1 so it's suitable for smooth lower grade algorithm.
+I applied Left-Hand Algorithm in this project as the clock speed of base Arduino UNO is slower than its varients like Arduino Nano and Arduino Giga R1 so it's suitable for smooth lower grade algorithm.
 
 
 Now that I've built this project I can surely build more advanced version of this same project with powerful components that can solve a maze super fast. 
