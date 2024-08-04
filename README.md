@@ -41,7 +41,7 @@ Components:
 From Top:
 
 
-![IMG_20240409_115953](https://github.com/user-attachments/assets/703b6a37-68b3-4c3f-bc76-a26302df582f)
+![top](https://github.com/user-attachments/assets/c47f0eb9-d9a2-46bd-ba7e-d137a0f3915a)
 
 
 From Bottom:
