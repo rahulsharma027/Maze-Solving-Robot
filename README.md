@@ -17,7 +17,8 @@ Components used are:
 9. 1X HC-05 Bluetooth Module for Wireless Control 
 10. 4X Double AA Batteries for powering the motor IC and motors.
 11. 1X 9V Battery for powering Arduino UNO.
-
+12. Robot chasis is made up of Bakelite Sheet (it's cheaper than regular chais so I choose this it highly insulating properties).
+13. 4-6X Large Bolts and 20X Screws for creating support.
 
 Technology used: C++ and Arduino IDE
 
