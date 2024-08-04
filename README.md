@@ -3,7 +3,7 @@
 
 This is a Non-Syllabus Project that I created in my 4th year as a CSE(AI) student for our Robot Programming Lab.
 It's a team based project that I lead, majority of the work is done by me like coding, assembling and tuning the components.
-I had a lot of fun creating this project, from the childhood I always wanted to create a super cool robot like this (execpt I want it to fly but that can be done along the way as I get the upportunity in this field).
+I had a lot of fun creating this project, from the childhood I always wanted to create a super cool robot like this (execept I want it to fly but that can be done along the way as I get the upportunity in this field).
 
 Components used are: 
 1. Arduino UNO
