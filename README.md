@@ -26,7 +26,7 @@ Technology used: C++ and Arduino IDE
 Here is the Final Robot:
 
 
-![Final](https://github.com/user-attachments/assets/e3444d11-7a9a-4d6e-9e62-cc71b1649c36)
+![Final](https://drive.google.com/uc?id=1DaHGDkjDWIAymkM1nwL6EIuN7JIINzXw)
 
 
 
@@ -34,27 +34,27 @@ Here is the Final Robot:
 Components:
 
 
-![IMG_20240409_115953](https://github.com/user-attachments/assets/703b6a37-68b3-4c3f-bc76-a26302df582f)
+![IMG_20240409_115953](https://drive.google.com/uc?id=1XUZYPVQds9NnUFN7gvDz8u2htd7NO2zs)
 
 
 
 From Top:
 
 
-![top](https://github.com/user-attachments/assets/c47f0eb9-d9a2-46bd-ba7e-d137a0f3915a)
+![top](https://drive.google.com/uc?id=1LXZo4pdZsRluPqH6R4kVbSuigZ_v6YXP)
 
 
 From Bottom:
 
 
-![bottom](https://github.com/user-attachments/assets/2d74c6c0-a2fa-4857-b4fc-3c1c2c07badb)
+![bottom](https://drive.google.com/uc?id=1qRe1aj8tKqWwgSyE4u5rPICoeHNrD7ZB)
 
 
 
 Circuit Diagram:
 
 
-![circuit](https://github.com/user-attachments/assets/fd8209a6-aeb3-4c57-8e66-8a17082a08fc)
+![circuit](https://drive.google.com/uc?id=1dzyIv8ouF_TJJFAdf_-wJ7KQSJJysDEJ)
 
 
 link to diagram: https://www.tinkercad.com/things/cprXLsnxos9-maze-solving-robot-by-rahul?sharecode=NaZQfIGqvAcNRh9VpaMJbraD9hYEZlVUz5iKPwpgfN0
@@ -64,28 +64,21 @@ link to diagram: https://www.tinkercad.com/things/cprXLsnxos9-maze-solving-robot
 Application to control the robot via bluetooth module:
 
 
-![landing page](https://github.com/user-attachments/assets/8b3b20f3-2fba-46f7-b0ef-b5e99f856dae)
+![landing page](https://drive.google.com/uc?id=1CHO_EEdAjlq2noo6H9o8ESx5YElodRUx)
 
 
 
 Connection Page:
 
 
-![bluetooth](https://github.com/user-attachments/assets/4ab0d920-08b6-42c4-8856-6c76fa057df7)
+![bluetooth](https://drive.google.com/uc?id=172vXj5gzDNanMQTFp-Qn_t5cAo_dhLiJ)
 
 
 
 Controller Interface:
 
 
-![Run](https://github.com/user-attachments/assets/fdbe7609-b4a1-4ea8-8e24-7fec91c2fe7f)
-
-
-
-My Team:
-
-
-![Team](https://github.com/user-attachments/assets/7abdf305-71c7-4f95-ab24-9745b6fa889e)
+![Run](https://drive.google.com/uc?id=1QsDCLpjjxAXmGYj45gfjA0TKlLP-gIFy)
 
 
 
